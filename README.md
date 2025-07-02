@@ -31,11 +31,7 @@ keylogger-implementation/
 ├── keylogger.py
 └── keylogs/
     └── log_YYYY-MM-DD_HH-MM-SS.txt  # Sample log file
-🚀 How to Run
-Clone the repository:
-git clone https://github.com/yourusername/keylogger-implementation.git
-cd keylogger-implementation
-Run the script:
+🚀 Run the script:
 python keylogger.py
 Keystrokes will be saved in the keylogs/ folder with a timestamped filename.
 
